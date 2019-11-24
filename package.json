@@ -24,9 +24,9 @@
     "gh-pages": "^1.1.0",
     "lodash": "^4.17.10",
     "prop-types": "^15.6.2",
-    "react": "^16.4.1",
+    "react": "^16.6.1",
     "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.6.1",
     "react-router-dom": "^4.3.1"
   },
   "devDependencies": {
